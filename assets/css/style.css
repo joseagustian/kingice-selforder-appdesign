@@ -1,0 +1,29 @@
+.float-btn{background-color: #111111;color:#FFBD30;position:fixed;bottom:20px;right:25px;text-align:center;}.float-btn:hover{background-color:#1a1b1d; color: #ffb20a;}.float-btn:focus{background-color:#1c1f23; color: #f1a500;}
+.logo-font{font-weight: bold; color:#FFBD30;}
+.btn-header{color: #FFBD30;}.btn-header:hover {background-color:#1c1f23; color: #ffb20a;}.btn-header:active {color: #e09900;}
+.btn-header:after{color: #FFBD30;}.btn-header:active::after{color: #FFBD30;}.btn-header:focus{color: #FFBD30;}
+.btn-filter{text-align:left; border:0; color: #FFBD30;}.btn-filter:hover{background-color:#1c1f23; text-align:left; border:solid #ffb20a; color: #ffb20a;}
+.btn-filter:focus{box-shadow: 0 0 0 0;background-color:#1c1f23; border: solid #ffb20a; color: #ffb20a; text-align:left;}
+.search-bar{border: solid#e09900;color:white;}.search-bar:focus{box-shadow: 0 0 0 1px #ffb30f;color:white;}
+.btn-add-cart{color: #00d13f;}.btn-add-cart:hover{font-size: 15px;color: #00b109;}.btn-add-cart:focus{font-size: 15px;box-shadow: 0 0 0 0; color: #00BA2B;}
+.btn-add{color: #00d13f;}.btn-add:hover{font-size: 15px;color: #00b109;}.btn-add:focus{font-size: 15px;box-shadow: 0 0 0 1px #00BA2B; color: #00BA2B;}
+.card-menu{width: 35rem; height: 11rem; background-color: #fff;}.card-menu:hover{width: 35rem; height: 11rem; background-color: whitesmoke}
+.disable-select {-webkit-user-select: none; -moz-user-select: none; -ms-user-select: none; user-select: none;}
+.modal-dismiss{color: #FFBD30;}.modal-dismiss:hover{background-color: transparent;color:#e09900;}.modal-dismiss:focus{box-shadow: 0 0 0 1px #ffb30f;}
+.card-search{height: 5rem; background-color:#1c1f23; color:#fff;}.card-search:hover{height: 5rem; background-color: #27292c}
+.bg-black{background-color: #111315;}
+.form-text-area{background-color: transparent; color: #fff;}.form-text-area:hover{background-color: #27292c; color: #fff; box-shadow: 0 0 0 1px #ffffff;}.form-text-area:focus{background-color: transparent; color: #fff; box-shadow: 0 0 0 1px #ffb30f;}
+.form-label{color: #ffffff;}
+.login-area-background{background: #1f1f1f;border-radius: 5px;}
+.form-login-area{background-color: transparent; color: #fff;}.form-login-area:hover{border:0 ;box-shadow: 0 0 0 1px #ffffff;}.form-login-area:focus{background-color: transparent;border: 0;box-shadow: 0 0 0 2px #ffae00;color:#fff}
+
+::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
+    color: #ffffff;
+    opacity: 1; /* Firefox */
+}
+:-ms-input-placeholder { /* Internet Explorer 10-11 */
+    color: #ffffff;
+}
+::-ms-input-placeholder { /* Microsoft Edge */
+    color: #ffffff;
+}
